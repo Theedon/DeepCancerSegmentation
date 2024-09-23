@@ -2,11 +2,22 @@
 
 **DeepCancerSegmentation**
 
-## Project Description
+## Paper Abstract
 
-This is a collection of python notebooks that present a solution from start to finish of OSCC Segmentation. It is the implementation i worked on for my final year project titled
-**_EXPERIMENTAL COMPARISON OF STATE-OF-THE-ART
-DEEP LEARNING APPROACHES FOR ORAL SQUAMOUS CELL CARCINOMA SEGMENTATION_**
+Oral Squamous Cell Carcinoma (OSCC) is a very common type of cancer that affects and can
+occur anywhere in the oral cavity. The segmentation of carcinoma cells from their non-carcinoma
+counterparts using deep learning architectures has been researched in some of the current studies,
+but further study is required in this area. In this research, the performance of the U-Net
+architecture and five modifications of the U-Net design is experimentally compared for the
+segmentation of OSCC images. High-quality Whole Slide Images (WSI) samples from the Oral
+Cancer (ORCA) dataset were used. Image augmentation and some other data preprocessing
+techniques were also used on the images before they were fed into the deep learning architectures.
+The architecture that gave the best performance is the U-Net with Inception-Resnet-v2 with an
+IOU score of 0.87, an F1 score of 0.86, a sensitivity of 0.86, and a specificity of 0.93. A key result of this research is that all of the U-Net modifications performed better when compared to the U-
+Net architecture.
+
+_**Keywords**: Oral Squamous Cell Carcinoma (OSCC), Oral Cancer dataset (ORCA), Whole Slide
+Images (WSI)._
 
 ## Some Results
 
