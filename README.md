@@ -1,6 +1,6 @@
 ## Project Title
 
-**DeepCancerSegmentation**
+**Experimental Comparison of State-of-the-Art Deep Learning Approaches for Oral Squamous Cell Carcinoma Cancer Segmentation**
 
 ## Paper Abstract
 
